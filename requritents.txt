@@ -1,5 +1,0 @@
-Django
-Numpy
-Pandas
-scikit-learn
-gunicorn
